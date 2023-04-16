@@ -646,8 +646,8 @@ welcome
 --------------------------------------------- 
 */
 .welcome-area {
-  width: 100%;
-  height: 100vh;
+  width: 90%;
+  height: 90vh;
   min-height: 793px;
   background-image: url(../images/promo_img.png);
   background-repeat: no-repeat;
